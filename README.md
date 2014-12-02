@@ -1,0 +1,4 @@
+EventStoreExtensions
+====================
+
+Extends the EventStore
